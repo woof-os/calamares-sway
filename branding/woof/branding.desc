@@ -125,7 +125,7 @@ strings:
     shortProductName:    Swayed Forest
     version:             1.0.0
     shortVersion:        1.0
-    versionedName:       Woof OS Arch GNU/Linux "Swayed Forest"
+    versionedName:       Woof OS GNU/Linux "Swayed Forest"
     shortVersionedName:  Woof OS 1.0.0
     bootloaderEntryName: Woof OS
     productUrl:          https://os.lewoof.xyz/
